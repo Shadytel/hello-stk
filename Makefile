@@ -9,4 +9,4 @@ PACKAGE_VERSION = 1.0
 SOURCES = \
 	src/org/toorcamp/HelloSTK/HelloSTK.java
 
-include ../toorcamp-javacard-sdk/makefiles/applet-project.mk
+include ../sim-tools/javacard/makefiles/applet-project.mk
